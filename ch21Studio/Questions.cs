@@ -10,7 +10,7 @@ namespace ch21Studio
     {
         public Dictionary<int, string> Quest = new Dictionary<int, string>();
         public Dictionary<int, string> TestAnswers = new Dictionary<int, string>();
-        private static int iQ = 1;
+        private static int iQ = 0;
         public void AddQuestions(string question)
         {
             this.Quest.Add(iQ, question);
@@ -24,7 +24,8 @@ namespace ch21Studio
 
         public void AddMultipleAnswers(string name)
         {
-            string[] newarr = name.Split(',');
+            string newname = name.Replace(" ", "");
+            string[] newarr = newname.Split(',');
             Array.Sort(newarr);
             string newString = string.Join(',', newarr);
             this.TestAnswers.Add(iQ, newString.ToLower());

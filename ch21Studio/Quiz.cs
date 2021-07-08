@@ -8,7 +8,6 @@ namespace ch21Studio
 {
     public class Quiz : Questions
     {
-        public double Grade { get; set; }
         public List<string> UserAnswers = new List<string>();
         
         public void PrintQuestionsReceiveAnswers()
@@ -19,7 +18,8 @@ namespace ch21Studio
                 string answer = Console.ReadLine();
                 if (answer.Length > 6)
                 {
-                    string[] newarr = answer.Split(',');
+                    string newanswer = answer.Replace(" ", "");
+                    string[] newarr = newanswer.Split(',');
                     Array.Sort(newarr);
                     string newString = string.Join(',', newarr);
                     this.UserAnswers.Add(newString.ToLower());
@@ -30,7 +30,6 @@ namespace ch21Studio
                 }
             }
         }
-
 
         private static int k = 0;
         public void GetGrade()
@@ -52,7 +51,7 @@ namespace ch21Studio
             }
             else
             {
-                Console.WriteLine("Try Again");
+                Console.WriteLine($"Unfortunately, you did not pass with a grade of {k * 20}%");
             }
         }
 

@@ -25,11 +25,10 @@ namespace ch21Studio
 
             One.PrintQuestionsReceiveAnswers();
 
-            foreach (string i in One.UserAnswers)
+            foreach(var i in One.UserAnswers)
             {
                 Console.WriteLine(i);
             }
-
             foreach (var i in One.TestAnswers)
             {
                 Console.WriteLine(i);
