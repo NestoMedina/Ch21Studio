@@ -1,0 +1,16 @@
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\bin\Debug\net5.0\ch21Studio.exe
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\bin\Debug\net5.0\ch21Studio.deps.json
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\bin\Debug\net5.0\ch21Studio.runtimeconfig.json
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\bin\Debug\net5.0\ch21Studio.runtimeconfig.dev.json
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\bin\Debug\net5.0\ch21Studio.dll
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\bin\Debug\net5.0\ref\ch21Studio.dll
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\bin\Debug\net5.0\ch21Studio.pdb
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.csproj.AssemblyReference.cache
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.AssemblyInfoInputs.cache
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.AssemblyInfo.cs
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.csproj.CoreCompileInputs.cache
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.dll
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ref\ch21Studio.dll
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.pdb
+C:\Users\eMedi\OneDrive\Desktop\LaunchCode\ch21\ch21Studio\ch21Studio\obj\Debug\net5.0\ch21Studio.genruntimeconfig.cache
